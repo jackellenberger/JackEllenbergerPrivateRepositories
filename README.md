@@ -10,7 +10,7 @@ Jack Ellenberger
 ## Projects
 
 #### CS237 Computer Graphics : OpenGL Graphics Final Project
-_With Partner Jaime Arana Rochel_
+_With Partner [Jaime Arana Rochel](https://github.com/aranarochel)_
 
 An amalgamation of interesting graphics ideas thrown together with an extreme lack of polish. A very fun and stressful project, and the probable focus of future developement when I have some time. The readme is as follows:
 ```
@@ -58,11 +58,25 @@ Usage
 	- D, S, X, / enables textures, Skyboxes, horizon mode, then switches the horizon to a sphere.
 ```
 Also available are 5 other Graphics projects, from my first openGL triangle to a deferred rendering pipeline:
+* [Basic Rendering](https://github.com/jackellenberger/JackEllenbergerPrivateRepositories/blob/master/Graphics/basic_rendering.pdf)
+* [Shading, Lighting, and Texturing](https://github.com/jackellenberger/JackEllenbergerPrivateRepositories/blob/master/Graphics/shading_lighting_textures.pdf)
+* [Blinn-Phong and Bump Mapping](https://github.com/jackellenberger/JackEllenbergerPrivateRepositories/blob/master/Graphics/advanced_lighting_bump_mapping.pdf)
+* [Deferred rendering pipeline, spot and point lights, specular mapping](https://github.com/jackellenberger/JackEllenbergerPrivateRepositories/blob/master/Graphics/deferred_rendering.pdf)
+* [Terrain Rendering with chunked LOD](https://github.com/jackellenberger/JackEllenbergerPrivateRepositories/blob/master/Graphics/terrain_rendering_lod.pdf)
 
 #### CS230 Operating Systems : PintOS kernel project
+_With Partner [Henry Riordan](https://github.com/hriordan)_
+
 -----
-#### CS233 Networks and Distributed Systems : chiTCP
+A general introduction to PintOS can be found [here](https://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html), and a more advanded look into how the seed code is laid out can be found [here](https://web.stanford.edu/class/cs140/projects/pintos/pintos_6.html). I unfortunately didn't think to copy the project descriptions back when I took the class, but stanford runs the same project has graciously agreed to save them for me. The projects covered:
+* [Threads, including a totally fair priority queue](https://web.stanford.edu/class/cs140/projects/pintos/pintos_2.html)
+* [basic virtual memory allowing for sandboxed user programs, user vs kernel memory](https://web.stanford.edu/class/cs140/projects/pintos/pintos_3.html)
+* [advanced virtual memory with paging, intelligent disk swapping, memory mapping](https://web.stanford.edu/class/cs140/projects/pintos/pintos_4.html)
+* [Hierarchical inode based file system with caching](https://web.stanford.edu/class/cs140/projects/pintos/pintos_5.html)
+#### CS233 Networks and Distributed Systems : chiTCP, chiIRC, chiRouter
 -----
-More information conveniently available [here](http://chi.cs.uchicago.edu/chitcp/), with program outlines [available](https://github.com/uchicago-cs/chitcp) thanks to Professor Sotomayor
+More information conveniently available [here](http://uchicago-cs.github.io/cmsc23300/syllabus.html), with program outlines [available](https://github.com/uchicago-cs/chitcp) thanks to [Professor Sotomayor](https://github.com/borjasotomayor). We implemented the majority of the TCP and IRC protocols to RFC spec, as well as some IP packet routing for the router project. 
+
 #### Uchicago App Challenge : oGrocer.apk
 -----
+I am currently (as of 12/30/15) a semifinalist in the [uchicago App Challenge](https://appchallenge.uchicago.edu/page/2016-phase-1-winners) with an idea for an app that lets users plan their shopping trips to maximize efficiency parametricly, balancing their time and their budget depending on their needs. For example, it may be $40 cheaper to buy food at a farmers market 90 minutes away, and on a lazy saturday that might be worth it. On a busy work day, however, it might be worth $40 just to have something to cook at home and not have to worry about grocery shopping further away than next door. oGrocer aims to give the consumer complete information about food prices and availability in order to allow for economic efficiency in busy families.
