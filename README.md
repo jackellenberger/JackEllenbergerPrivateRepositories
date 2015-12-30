@@ -1,12 +1,17 @@
 # JackEllenbergerPrivateRepositories
 A description of some of the private repositories that are not available to the public, but may be useful code samples to those that ask
 
-This repository is a marquee 
+This repository is a menu for all the projects that are private on github or offline that are available to potential employers or friends as work samples and homework help respectively. I'm keeping the contents private because in many of them there are code stubs written by professors which will be reused in future years. I'm not keen on giving away answers to future years (but if you want help just ask), so I'm going to keep the code unsearchable, and if someone is interested in a project I can add them as a collaborator or just zip up a copy of the codebase. Just comment on this README or send me an email.
+
+Cheers
+Jack Ellenberger
+
+
 ## Projects
 
 #### CS237 Computer Graphics : OpenGL Graphics Final Project
-With Partner Jaime Arana Rochel
------
+_With Partner Jaime Arana Rochel_
+
 An amalgamation of interesting graphics ideas thrown together with an extreme lack of polish. A very fun and stressful project, and the probable focus of future developement when I have some time. The readme is as follows:
 ```
 README for project 6
@@ -53,7 +58,7 @@ Usage
 	- D, S, X, / enables textures, Skyboxes, horizon mode, then switches the horizon to a sphere.
 ```
 Also available are 5 other Graphics projects, from my first openGL triangle to a deferred rendering pipeline:
-* 
+
 #### CS230 Operating Systems : PintOS kernel project
 -----
 #### CS233 Networks and Distributed Systems : chiTCP
